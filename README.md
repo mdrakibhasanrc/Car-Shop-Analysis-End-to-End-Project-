@@ -1,5 +1,4 @@
-# Title: 
-Car Shop Analysis(End-to-End Project)
+# Title: Car Shop Analysis(End-to-End Project)
 
 # Introduction: 
 I'm thrilled to share the successful completion of my latest project, where I dived into the world of automotive data analysis. Here's a quick rundown of the journey.
