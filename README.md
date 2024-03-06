@@ -40,6 +40,8 @@ BigQuery was the perfect playground for exploring and analyzing the data. Insigh
 # 📈 Data Visualization:
 To make these insights shine, I turned to Tableau for data visualization. The visuals brought the story to life, making it easier to understand and share.
 
+Tableau Dashboard Link: (https://public.tableau.com/app/profile/mdrakibhasanbd/viz/CarShopAnalysis/Dashboard1)
+
 # Dashboard:
 ![car_shop_Dashbaord](https://github.com/mdrakibhasanrc/Car-Shop-Analysis-End-to-End-Project-/assets/103329593/c9bc37d8-3469-4235-a215-da31af2e4d11)
 
